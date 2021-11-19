@@ -16,7 +16,3 @@
 
 ![A beginner developer](https://particuliers.uem-metz.fr/wp-content/uploads/sites/2/2019/03/trait-separation.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunnosMp4)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LunnosMp4&show_icons=true)  
-
