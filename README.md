@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://loic-tisseyre.com](https://loic-tisseyre.com)
 
-- 📫 My Email **loic.tisseyre@epitech.eu**
+- 📫 My Email **lctisseyre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
