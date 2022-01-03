@@ -1,18 +1,21 @@
-## Hi there 👋, I'm Lunnos,
-### A beginner developer
-![A beginner developer](https://particuliers.uem-metz.fr/wp-content/uploads/sites/2/2019/03/trait-separation.png)
+<h1 align="center">Hi 👋, I'm Loïc</h1>
 
-- 🔭 I’m currently working on projects for my school but also on personal projects such as java plugins for minecraft or a native react api. 
+- 🌱 I’m currently learning **C, Python, HTML/CSS**
 
-- 🌱 I’m currently learning a lot **C** and a little bit of **Python** 
+- 👨‍💻 All of my projects are available at [https://loic-tisseyre.com](https://loic-tisseyre.com)
 
-- 📫 How to reach me:  you can find me on my social networks below but also on discord with my id : **Lunnos#0001** 
+- 📫 My Email **loic.tisseyre@epitech.eu**
 
-#### - My Social Networks :
-[<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'>](https://github.com/LunnosMp4)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' height='40'>](https://www.instagram.com/loic_ts/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Lunnos)  [<img src='https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCY_ZHlZCl9Qg8sPi7P5HKvg)  [<img src='https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png' alt='Reddit' height='40'>](https://www.reddit.com/user/Lunnos)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/loic_ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loic_ts" height="30" width="40" /></a>
+<a href="https://discord.gg/lunnos#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lunnos#0001" height="30" width="40" /></a>
+</p>
 
-#### - My Tools :
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png' alt='visualstudiocode' height='40'>]()  [<img src='https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png' alt='eclipseide' height='40'>]()  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![A beginner developer](https://particuliers.uem-metz.fr/wp-content/uploads/sites/2/2019/03/trait-separation.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lunnosmp4&label=Profile%20views&color=0e75b6&style=flat" alt="lunnosmp4" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lunnosmp4&show_icons=true&theme=dark&locale=en" alt="lunnosmp4" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lunnosmp4&theme=dark" alt="lunnosmp4" /></p>
