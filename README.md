@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **C, C#, Python, HTML/CSS, JS**
 
-- 👨‍💻 All of my projects are available at [https://loic-tisseyre.com](https://loic-tisseyre.com)
+- 👨‍💻 All of my projects are available at **[https://loic-tisseyre.com](https://loic-tisseyre.com)**
 
 - 📫 My Email **lctisseyre@gmail.com**
 
- - 🖊️ Code Pen : [https://codepen.io/lunnosmp4](https://codepen.io/lunnosmp4)
+ - 🖊️ Code Pen : **[https://codepen.io/lunnosmp4](https://codepen.io/lunnosmp4)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
