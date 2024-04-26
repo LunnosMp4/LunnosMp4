@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 
-- 🌱 I’m currently learning **C++ and Genetic Algorithm**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at **[https://loic-tisseyre.com](https://loic-tisseyre.com)**
 
