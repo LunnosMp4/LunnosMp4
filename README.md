@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 Some of my projects are available at **[https://loic-tisseyre.com](https://loic-tisseyre.com)** (_May not be updated_)
+- 👨‍💻 Some of my projects are available at **[https://loic-tisseyre.com](https://loic-tisseyre.com)**
  
 - 📫 My Email **contact@loic-tisseyre.com**
 
- - 🖊️ Code Pen : **[https://codepen.io/lunnosmp4](https://codepen.io/lunnosmp4)**
+ - 🖊️ LinkTree : **[https://linktr.ee/Lunnos](https://linktr.ee/Lunnos)**
 
 ---
 
