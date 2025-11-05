@@ -17,11 +17,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: LunnosMp4
           
-          # Options de base
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           
-          # Plugin WakaTime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
