@@ -42,7 +42,8 @@
 <summary>See more</summary>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunnosmp4&label=Profile%20views&color=0e75b6&style=flat" alt="lunnosmp4" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lunnosmp4&show_icons=true&count_private=true&theme=dark&locale=en" alt="lunnosmp4" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunnosmp4&langs_count=10&layout=compact&theme=dark" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lunnosmp4&count_private=true&theme=dark" alt="lunnosmp4" /></p>
+
+![WakaTime activity chart](https://wakapi.loic-tisseyre.com/api/activity/chart/Lunnos.svg)
+
+
 </details>
