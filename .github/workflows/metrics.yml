@@ -26,4 +26,4 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_limit: 5
           plugin_wakatime_url: https://wakapi.loic-tisseyre.com
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: Lunnos
