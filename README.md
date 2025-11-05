@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 
-- 🌱 I’m currently learning **Rust**
-
 - 👨‍💻 Some of my projects are available at **[https://loic-tisseyre.com](https://loic-tisseyre.com)**
  
 - 📫 My Email **contact@loic-tisseyre.com**
 
  - 🖊️ LinkTree : **[https://linktr.ee/Lunnos](https://linktr.ee/Lunnos)**
+
+---
+
+![Metrics](https://github.com/LunnosMp4/LunnosMp4/blob/main/github-metrics.svg)
 
 ---
 
