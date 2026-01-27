@@ -10,6 +10,8 @@
 
 ![Metrics](https://github.com/LunnosMp4/LunnosMp4/blob/main/github-metrics.svg)
 
+<img alt="Coding Time Badge" src="https://wakapi.loic-tisseyre.com/api/badge/Lunnos/interval:any/">
+
 ---
 
 <h3 align="left">Connect with me:</h3>
