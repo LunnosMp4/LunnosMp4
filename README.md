@@ -47,7 +47,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunnosmp4&label=Profile%20views&color=0e75b6&style=flat" alt="lunnosmp4" /> </p>
 
-![WakaTime activity chart](https://wakapi.loic-tisseyre.com/api/activity/chart/Lunnos.svg)
+![WakaTime activity chart](https://wakapi.loic-tisseyre.com/api/activity/chart/Lunnos.svg?dark)
 
 
 </details>
